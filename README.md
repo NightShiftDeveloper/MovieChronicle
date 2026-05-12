@@ -8,11 +8,10 @@ MovieChronicle is a full-stack web application that collects movie data from ext
 
 ## Technical Architecture
 
-### System Components
+### System Structure
 
-```
-External Movie API → Backend Server → Database → Frontend Application
-```
+<img src="./assets/Diagram.png">
+
 
 1. **External Movie API**: Fetch movie data (TMDb, OMDb, or similar)
 2. **Backend Server**: Process and store API data
