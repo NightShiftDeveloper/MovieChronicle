@@ -33,8 +33,8 @@
 
 ### 1.2 Writing Guidelines
 
-- Use clear, concise language—avoid ambiguity
-- Proofread messages before sending, especially in formal channels
+- Use clear, concise language avoid ambiguity
+- Proof read messages before sending, especially in formal channels
 - Use threads to keep conversations organized
 - Include context when asking questions (what you've tried, what you expect)
 - Avoid ALL CAPS unless emphasizing critical issues
@@ -62,7 +62,7 @@
 
 ### 2.2 Expected Behavior
 
-✅ **Do:**
+ **Do:**
 - Ask clarifying questions before making assumptions
 - Give credit where credit is due
 - Admit mistakes and focus on solutions
@@ -70,7 +70,7 @@
 - Celebrate team wins and individual contributions
 - Maintain confidentiality of sensitive information
 
-❌ **Don't:**
+ **Don't:**
 - Speak negatively about team members behind their backs
 - Dismiss ideas without consideration
 - Blame others for failures
